@@ -1,0 +1,2 @@
+# safemode
+uji coba safelink
